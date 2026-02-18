@@ -1,2 +1,0 @@
-Name: Rakib, Roll: 101, Courses: Python,Database,Math
-Name: Rakib, Roll: 101, Courses: Python,Database,Math 
